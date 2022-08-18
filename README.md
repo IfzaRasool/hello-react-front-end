@@ -45,7 +45,7 @@ Open the project in your favorite code editor. `code .` for VS Code.
 👤 **IFZA Rasool**
 - GitHub: [@ifzarasool](https://github.com/IfzaRasool)
 - Twitter: [@ifzaarain](https://twitter.com/ifzaarain)
-- LinkedIn: [@ifza-arain]https://www.linkedin.com/in/ifza-arain/)
+- LinkedIn: [@ifza-arain](https://www.linkedin.com/in/ifza-arain/)
 
 ## 🤝 Contributing
 
