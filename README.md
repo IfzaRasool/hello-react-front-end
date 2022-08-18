@@ -22,7 +22,7 @@ If you don't have yarn installed, you can follow this [tutorial](https://classic
 ## Usage
 In your terminal, navigate to your current directory and run this code
 
-`git clone https://github.com/deyemiobaa/hello-react-rails-app.git`
+`git clone https://github.com/IfzaRasool/hello-react-front-end.git`
 
 Then run
 
@@ -43,9 +43,9 @@ Open the project in your favorite code editor. `code .` for VS Code.
 ## Author
 
 👤 **IFZA Rasool**
-- GitHub: [@ifzarasool](https://github.com/IfzaRasool
+- GitHub: [@ifzarasool](https://github.com/IfzaRasool)
 - Twitter: [@ifzaarain](https://twitter.com/ifzaarain)
-- LinkedIn: [@ifza-arain]https://www.linkedin.com/in/ifza-arain/
+- LinkedIn: [@ifza-arain]https://www.linkedin.com/in/ifza-arain/)
 
 ## 🤝 Contributing
 
